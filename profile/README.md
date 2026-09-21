@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/niawi-tech/.github/main/profile/assets/niawi-logo-web.png" width="260" alt="Niawi Tech">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/niawi-tech/.github/main/profile/assets/niawi-logo-dark.png">
+    <img src="https://raw.githubusercontent.com/niawi-tech/.github/main/profile/assets/niawi-logo-web.png" width="260" alt="Niawi Tech">
+  </picture>
 </p>
 
 <p align="center"><strong>Humanidad potenciada por AI</strong></p>
